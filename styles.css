@@ -1,0 +1,24 @@
+body {
+    background-color:peachpuff;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+    font-size: 24px;
+}
+
+li {
+    margin: 25px;
+}
